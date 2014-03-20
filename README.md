@@ -1,4 +1,6 @@
 alfred-toggle-wifi
 ==================
 
-Alfred Airport toggler
+![image](./screenshot.png)
+
+Alfred Airport toggler.
